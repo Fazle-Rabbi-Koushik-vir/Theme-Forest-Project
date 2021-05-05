@@ -812,6 +812,8 @@ Testimonial
     width:100%;
     height:400px;
     object-fit: cover;
+    display:block;
+    border-radius:2rem;
 }
 
 .layer{
@@ -819,6 +821,7 @@ Testimonial
     height:100%;
     width:100%;
     cursor:pointer;
+    border-radius:2rem;
     position:absolute;
     top:0;
     left:0;

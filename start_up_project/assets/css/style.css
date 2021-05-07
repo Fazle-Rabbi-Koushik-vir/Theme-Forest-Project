@@ -470,6 +470,7 @@ Course
     padding:3rem;
     background-color: var(--white2);
     border-radius:.5rem;
+    border:1px solid var(--sky2);
 }
 
 
@@ -737,6 +738,7 @@ Working Process
     flex:0 0 49%;
     height:auto;
     border-radius: .5rem;
+    border:1px solid var(--sky2);
     margin-top: 2rem;
     background-color: var(--white2);
     cursor: pointer;
@@ -974,12 +976,12 @@ Contact
     height:400;
     padding:3rem;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, .125);
-    border-radius: 2rem;;
+    border-radius: .5rem;;
     background-color: var(--white);
 }
 
 .contact_process .right_column .input_field{
-    margin-bottom: 1.5rem;
+    margin-bottom: .5rem;
     display:flex;
     align-items: center;
 }
@@ -987,7 +989,7 @@ Contact
 .right_column .input_field input{
     width:100%;
     padding:2rem;
-    margin-top:1.5rem;
+    margin-top:.5rem;
     border-radius: 1rem;
     outline:none;
     border:1px solid var(--sky2);
@@ -1000,7 +1002,7 @@ Contact
     height:13rem;
     padding:2rem;
     margin-top:1.5rem;
-    border-radius: 1rem;
+    border-radius: .5rem;
     outline:none;
     border:1px solid var(--sky2);
     transition:all .3s ease;

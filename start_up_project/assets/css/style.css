@@ -83,7 +83,7 @@ hr{
     background:-webkit-linear-gradient(101.28deg, #0596FD -24.47%, #FF466F 51.55%, #FFAF00 124.47%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .content p{

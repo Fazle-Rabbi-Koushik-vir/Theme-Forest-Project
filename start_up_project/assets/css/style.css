@@ -942,7 +942,7 @@ Contact
     display:flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 5rem;
+    padding: 5rem 0;
     width:100%;
 }
 

@@ -859,6 +859,8 @@ Testimonial
     height:440px;
     object-fit: cover;
     display:block;
+    border: 1px solid var(--sky2);
+    border-radius: .5rem;
 }
 
 .employee_info{

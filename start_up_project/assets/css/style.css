@@ -685,25 +685,21 @@ Project Media Query
     }    
 }
   
-@media (max-width: 567px) {
+@media (max-width: 568px) {
     .project_center{
-        height:50rem;
+        height:40rem;
     }
 
     .project_right {
         display: none;  
     }
     
-    .glide__arrow--left {
-        left: 30%;
+    .project_left h1 {
+        font-size:1.6rem;
     }
-    
-    .glide__arrow--right {
-        position: absolute;
-        left: 50%;
+    .project_left ul li{
+        font-size:1.2rem;
     }
-    
-    
 }
 
 
@@ -787,7 +783,7 @@ Working Process Media Query
     }
 }
 
-@media (max-width:567px){
+@media (max-width:568px){
     .process{
         margin:0;
         position: relative;
@@ -908,7 +904,7 @@ Employee Media Query
     }
 }
 
-@media (max-width: 568px){
+@media (max-width: 567px){
     .employee_bio img{
         height:250px;
     }

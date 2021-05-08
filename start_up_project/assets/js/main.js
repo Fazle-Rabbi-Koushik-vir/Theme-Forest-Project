@@ -27,7 +27,7 @@ navClose.addEventListener("click", () => {
 
 /*
 =============
-Sticky Navigation
+Sticky Navbar
 =============
 */
 
@@ -57,7 +57,6 @@ const slider1 = document.getElementById("glide_1");
 
 
 
-
 /*
 ------------------
 ------------------
@@ -65,6 +64,7 @@ Project Slider
 ------------------
 ------------------
 */
+
 if (slider1) {
   new Glide(slider1, {
     type: "carousel",

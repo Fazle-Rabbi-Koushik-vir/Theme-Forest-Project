@@ -45,6 +45,7 @@ function myFunction() {
 }
 
 
+
 /*
 =============
 Glide Js Carousel
@@ -52,8 +53,6 @@ Glide Js Carousel
  */
 
 const slider1 = document.getElementById("glide_1");
-
-
 
 
 

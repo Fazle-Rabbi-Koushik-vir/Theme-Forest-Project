@@ -452,7 +452,12 @@ Course
 }
 
 
-.course_card .box{
+.course_card .card_area{
+    flex:0 0 32%;
+}
+
+
+.course_card .card_area .box{
     height:300px;
     box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
                 inset -5px -5px 15px rgba(255,255,255,0.1),
@@ -460,11 +465,12 @@ Course
                 -5px -5px 15px rgba(255,255,255,0.1);
     border-radius:1.5rem;
     cursor:pointer;
-    margin:1rem;
+    margin-bottom:1rem;
+    border-radius:1rem;
 }
 
 
-.course_card .box .box_content{
+.course_card .card_area .box .box_content{
     height:100%;
     padding:3rem;
     background-color: var(--white2);
@@ -473,18 +479,19 @@ Course
 }
 
 
-.course_card .box .box_content h2{
+.course_card .card_area .box .box_content h2{
     font-weight:500;
     font-size:2.5rem;
     color:var(--black3);
     margin-top:1.5rem;
 }
 
-.course_card .box .box_content p{
+.course_card .card_area .box .box_content p{
     font-size:1.6rem;
     color:var(--grey4);
     margin-top:1.5rem;
 }
+
 
 
 /*

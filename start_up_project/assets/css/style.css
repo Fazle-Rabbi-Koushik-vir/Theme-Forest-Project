@@ -75,11 +75,12 @@ hr{
 .content{
     max-width:100%;
     text-align:left;
+    margin-top: 1rem;
 }
 
 .content h1{
     font-size:6rem;
-    background:-webkit-linear-gradient(101.28deg, #0596FD -24.47%, #FF466F 51.55%, #FFAF00 124.47%);
+    background:-webkit-linear-gradient(89.2deg, #0596FD -24.47%, #FF466F 51.55%, #FFAF00 124.47%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 1rem;

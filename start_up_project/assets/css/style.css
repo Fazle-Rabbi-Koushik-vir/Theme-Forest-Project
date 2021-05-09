@@ -68,7 +68,6 @@ h3,h4{
 hr{
     width:15%;
     height:.3rem;
-    text-align:left;
     background:linear-gradient(101.28deg, #0596FD -24.47%, #FF466F 51.55%, #FFAF00 124.47%);
     border:none; 
 }

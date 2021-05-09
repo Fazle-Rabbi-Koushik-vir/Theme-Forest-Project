@@ -963,7 +963,7 @@ Contact
 .contact_process .right_column{
     width:60%;
     padding:3rem;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, .125);
+    box-shadow:10px 10px 40px 0  rgba(5, 150, 253, 0.2);
     border-radius: .5rem;;
     background-color: var(--white);
 }

@@ -186,7 +186,7 @@ Navigation
     width: 100%;
 }
 
-/*for sticky navigation*/
+/*for sticky navbar*/
 .sticky {
     position: fixed;
     top: 0;

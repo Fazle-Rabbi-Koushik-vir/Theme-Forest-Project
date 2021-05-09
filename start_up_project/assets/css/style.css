@@ -314,7 +314,7 @@ Hero
       
 }
 
-/*Animated Header*/
+/*Animated Hero Header*/
 .animate {
   font-size: 6rem;
   
@@ -368,7 +368,7 @@ Hero
 }
 
 
-/* Animation One */
+/* Animation Text */
 
 .text span {
   color:var(--white);
